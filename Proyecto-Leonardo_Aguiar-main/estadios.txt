@@ -1,0 +1,593 @@
+Estadio: 2eead114-7627-45c4-83ab-ee3d66a6c62f;Estadio Olímpico de Berlín;Berlín;[133, 319]
+  Restaurante: Centeno S.L.
+    Producto: Increible Plástico Teclado;3820;868.00;355;plate
+    Producto: Ergonómico Hormigon Bicicleta;10556;952.00;440;alcoholic
+    Producto: Genérico Algodón Raton;6003;67.00;384;non-alcoholic
+    Producto: Genérico Ladrillo Pantalones;10702;253.00;321;non-alcoholic
+    Producto: Refinado Ladrillo Toallas;9467;832.00;311;package
+    Producto: Pequeño Plástico Camiseta;10876;288.00;391;plate
+    Producto: Rústico Acero Sopa;14306;464.00;411;package
+    Producto: Pequeño Algodón Guantes;10948;162.00;276;non-alcoholic
+    Producto: Guapa Acero Pantalones;10247;781.00;382;package
+    Producto: Sorprendente Algodón Queso;3488;490.00;332;non-alcoholic
+    Producto: Sabroso Algodón Teclado;2566;937.00;105;plate
+    Producto: Pequeño Metal Gorro;8466;872.00;148;alcoholic
+    Producto: Hecho a mano Metal Pelota;5276;182.00;119;package
+    Producto: Increible Algodón Raton;6076;548.00;184;non-alcoholic
+    Producto: Guapo Metal Pescado;11232;586.00;158;alcoholic
+  Restaurante: Montes y Pacheco
+    Producto: Genérico Metal Ordenador;14604;119.00;447;non-alcoholic
+    Producto: Guapa Granito Raton;5331;282.00;101;plate
+    Producto: Ergonómico Madera Pollo;13381;124.00;243;non-alcoholic
+    Producto: Refinado Plástico Patatas fritas;12624;944.00;373;alcoholic
+    Producto: Práctico Algodón Pantalones;5125;9.00;354;package
+    Producto: Pequeño Algodón Silla;9521;489.00;420;plate
+    Producto: Sorprendente Ladrillo Camiseta;9446;282.00;304;alcoholic
+    Producto: Artesanal Algodón Salchichas;6883;89.00;311;non-alcoholic
+    Producto: Pequeño Hormigon Teclado;9308;534.00;346;plate
+    Producto: Sabroso Acero Pelota;3451;86.00;227;package
+  Restaurante: Pineda y Puga
+    Producto: Fantástico Acero Teclado;13586;67.00;201;package
+    Producto: Guapa Plástico Salchichas;6249;516.00;355;non-alcoholic
+    Producto: Inteligente Algodón Mesa;11632;936.00;256;alcoholic
+    Producto: Refinado Metal Queso;5724;633.00;202;plate
+    Producto: Sorprendente Madera Bacon;3383;475.00;289;alcoholic
+    Producto: Guapo Metal Pantalones;9875;453.00;325;non-alcoholic
+    Producto: Genérico Ladrillo Ensalada;8750;682.00;462;package
+    Producto: Refinado Madera Pizza;43;756.00;105;package
+    Producto: Sorprendente Hormigon Queso;13679;419.00;320;package
+    Producto: Práctico Madera Salchichas;3085;940.00;192;non-alcoholic
+    Producto: Artesanal Ladrillo Mesa;11804;893.00;288;non-alcoholic
+    Producto: Rústico Hormigon Pescado;1923;188.00;319;non-alcoholic
+    Producto: Hecho a mano Granito Camiseta;6771;824.00;414;plate
+  Restaurante: Aponte, Guillén y Jurado Asociados
+    Producto: Hecho a mano Ladrillo Gorro;4246;243.00;152;plate
+    Producto: Guapa Granito Bacon;6063;507.00;215;plate
+    Producto: Genérico Ladrillo Toallas;6328;310.00;182;package
+    Producto: Práctico Algodón Toallas;2198;117.00;360;package
+    Producto: Pequeño Algodón Ensalada;14894;938.00;124;plate
+    Producto: Increible Granito Pizza;3281;15.00;259;alcoholic
+    Producto: Inteligente Granito Guantes;1350;801.00;216;non-alcoholic
+    Producto: Genérico Granito Pescado;32;295.00;239;plate
+    Producto: Genérico Madera Sopa;4725;571.00;261;non-alcoholic
+    Producto: Refinado Acero Bicicleta;5098;463.00;140;non-alcoholic
+    Producto: Artesanal Algodón Ensalada;9293;283.00;333;alcoholic
+    Producto: Genérico Acero Atún;28;664.00;381;plate
+  Restaurante: Carbajal Medina S.L.
+    Producto: Práctico Acero Ensalada;7879;613.00;397;package
+    Producto: Guapa Madera Mesa;5591;587.00;158;package
+    Producto: Inteligente Hormigon Queso;1369;571.00;240;plate
+    Producto: Artesanal Ladrillo Gorro;3751;456.00;279;alcoholic
+    Producto: Genérico Algodón Pescado;9322;404.00;499;package
+    Producto: Genérico Acero Mesa;6373;548.00;127;non-alcoholic
+    Producto: Sorprendente Ladrillo Mesa;6712;702.00;179;plate
+    Producto: Fantástico Plástico Toallas;11847;809.00;367;non-alcoholic
+    Producto: Increible Madera Zapatos;1518;738.00;233;package
+    Producto: Ergonómico Madera Ensalada;12707;12.00;103;non-alcoholic
+    Producto: Práctico Granito Raton;6835;379.00;207;alcoholic
+Estadio: 50542213-b8e8-400e-8353-4e3b3cfa8144;Allianz Arena;Munich;[937, 411]
+  Restaurante: Solorzano Quintero e Hijos
+    Producto: Fantástico Hormigon Queso;3833;512.00;215;plate
+    Producto: Increible Plástico Pescado;7577;836.00;165;non-alcoholic
+    Producto: Artesanal Hormigon Guantes;10291;832.00;446;package
+    Producto: Práctico Madera Guantes;4904;726.00;306;non-alcoholic
+    Producto: Pequeño Hormigon Pelota;1022;117.00;176;alcoholic
+    Producto: Sabroso Granito Pizza;8826;543.00;245;alcoholic
+    Producto: Refinado Hormigon Toallas;6628;590.00;357;alcoholic
+    Producto: Guapa Acero Gorro;7750;617.00;270;non-alcoholic
+    Producto: Ergonómico Madera Toallas;2659;608.00;229;plate
+    Producto: Ergonómico Acero Salchichas;13997;152.00;428;plate
+    Producto: Ergonómico Acero Ensalada;6369;253.00;266;package
+    Producto: Rústico Plástico Sopa;2257;279.00;130;plate
+  Restaurante: Pacheco, Mesa y Quiñones Asociados
+    Producto: Rústico Plástico Zapatos;14765;383.00;442;plate
+    Producto: Guapa Granito Silla;6599;498.00;189;alcoholic
+    Producto: Pequeño Algodón Bicicleta;3289;110.00;491;package
+    Producto: Refinado Ladrillo Pantalones;6283;955.00;402;plate
+    Producto: Refinado Granito Patatas fritas;1969;475.00;422;package
+    Producto: Guapo Algodón Pollo;13998;433.00;195;plate
+    Producto: Guapa Ladrillo Ensalada;4940;786.00;357;package
+    Producto: Guapa Hormigon Mesa;7065;935.00;431;package
+    Producto: Increible Algodón Ordenador;8967;921.00;290;plate
+    Producto: Inteligente Plástico Pelota;14985;488.00;332;package
+    Producto: Guapa Acero Bacon;9221;437.00;454;package
+    Producto: Genérico Ladrillo Guantes;2810;854.00;264;package
+  Restaurante: Rentería Marín e Hijos
+    Producto: Guapa Plástico Coche;181;206.00;118;package
+    Producto: Fantástico Hormigon Pescado;14452;512.00;192;package
+    Producto: Ergonómico Hormigon Gorro;5774;502.00;283;alcoholic
+    Producto: Sabroso Granito Guantes;417;880.00;293;package
+    Producto: Hecho a mano Metal Ensalada;7078;330.00;244;alcoholic
+    Producto: Inteligente Algodón Camiseta;11151;198.00;187;plate
+    Producto: Genérico Madera Pescado;885;734.00;491;alcoholic
+    Producto: Artesanal Algodón Pizza;1346;757.00;294;alcoholic
+    Producto: Fantástico Plástico Mesa;4482;183.00;235;alcoholic
+    Producto: Rústico Madera Ordenador;1961;983.00;272;alcoholic
+    Producto: Sabroso Madera Ensalada;13461;544.00;499;plate
+    Producto: Genérico Hormigon Teclado;8048;14.00;500;non-alcoholic
+    Producto: Inteligente Ladrillo Ensalada;5309;726.00;137;package
+Estadio: ba2b4f33-1d5e-4f63-ae0d-e491a48f41d4;Signal Iduna Park;Dortmund;[19, 159]
+  Restaurante: Carrasco y Calvillo
+    Producto: Sabroso Madera Ordenador;3654;616.00;209;alcoholic
+    Producto: Increible Hormigon Ordenador;7228;879.00;271;alcoholic
+    Producto: Hecho a mano Algodón Pelota;4916;75.00;318;plate
+    Producto: Rústico Madera Ordenador;8542;485.00;141;non-alcoholic
+    Producto: Hecho a mano Ladrillo Raton;5025;937.00;495;plate
+    Producto: Artesanal Granito Ordenador;2933;754.00;363;alcoholic
+    Producto: Rústico Ladrillo Ensalada;12605;954.00;431;alcoholic
+    Producto: Genérico Algodón Toallas;1866;182.00;255;alcoholic
+    Producto: Práctico Acero Teclado;11423;770.00;153;plate
+    Producto: Práctico Plástico Bicicleta;14998;924.00;271;package
+    Producto: Sabroso Algodón Zapatos;3943;886.00;220;non-alcoholic
+    Producto: Guapo Plástico Gorro;4273;968.00;260;non-alcoholic
+    Producto: Práctico Ladrillo Guantes;3711;46.00;218;plate
+  Restaurante: Carmona S.L.
+    Producto: Fantástico Granito Pescado;12775;519.00;409;plate
+    Producto: Práctico Acero Mesa;14631;691.00;107;non-alcoholic
+    Producto: Sabroso Madera Silla;12275;385.00;174;plate
+    Producto: Guapo Plástico Coche;13824;226.00;358;package
+    Producto: Ergonómico Ladrillo Coche;7277;84.00;434;non-alcoholic
+    Producto: Fantástico Acero Pelota;3701;228.00;177;plate
+    Producto: Hecho a mano Hormigon Silla;385;740.00;385;non-alcoholic
+    Producto: Ergonómico Acero Coche;9246;732.00;119;package
+    Producto: Increible Plástico Raton;1935;877.00;497;plate
+    Producto: Hecho a mano Granito Gorro;9776;973.00;280;alcoholic
+    Producto: Ergonómico Madera Patatas fritas;14598;683.00;202;non-alcoholic
+    Producto: Sorprendente Metal Ensalada;754;422.00;119;plate
+  Restaurante: Santillán, Rojo y Velasco Asociados
+    Producto: Artesanal Madera Camiseta;8304;857.00;261;non-alcoholic
+    Producto: Sabroso Hormigon Gorro;4785;902.00;476;plate
+    Producto: Genérico Algodón Mesa;7613;626.00;215;plate
+    Producto: Guapo Madera Patatas fritas;4767;350.00;112;plate
+    Producto: Increible Algodón Mesa;976;565.00;302;non-alcoholic
+    Producto: Ergonómico Hormigon Zapatos;14897;750.00;203;alcoholic
+    Producto: Fantástico Algodón Patatas fritas;5540;281.00;436;non-alcoholic
+    Producto: Fantástico Madera Bacon;6012;849.00;192;package
+    Producto: Práctico Ladrillo Bicicleta;8397;54.00;367;package
+    Producto: Refinado Algodón Pelota;11600;834.00;159;plate
+    Producto: Práctico Granito Salchichas;13522;789.00;353;alcoholic
+    Producto: Práctico Ladrillo Toallas;5996;324.00;148;package
+    Producto: Refinado Madera Mesa;6514;449.00;331;plate
+  Restaurante: Munguía Hermanos
+    Producto: Genérico Granito Camiseta;9324;75.00;249;non-alcoholic
+    Producto: Genérico Plástico Raton;2385;232.00;217;non-alcoholic
+    Producto: Increible Acero Coche;4628;649.00;301;alcoholic
+    Producto: Pequeño Metal Guantes;1802;778.00;199;package
+    Producto: Increible Granito Coche;4946;328.00;268;alcoholic
+    Producto: Sorprendente Metal Pantalones;10186;154.00;219;package
+    Producto: Inteligente Algodón Salchichas;14092;101.00;192;package
+    Producto: Hecho a mano Metal Toallas;6448;940.00;249;package
+    Producto: Guapa Plástico Pelota;11649;484.00;397;package
+    Producto: Guapo Hormigon Queso;14642;503.00;230;alcoholic
+    Producto: Ergonómico Plástico Patatas fritas;13325;955.00;298;plate
+  Restaurante: Llamas, Cervántez y Barragán Asociados
+    Producto: Rústico Plástico Pantalones;8661;780.00;236;package
+    Producto: Rústico Madera Raton;1622;948.00;211;non-alcoholic
+    Producto: Rústico Acero Silla;11755;171.00;206;package
+    Producto: Rústico Ladrillo Camiseta;14926;827.00;441;package
+    Producto: Ergonómico Acero Pollo;14678;554.00;327;package
+    Producto: Pequeño Hormigon Pescado;13536;983.00;393;plate
+    Producto: Refinado Metal Camiseta;4148;961.00;185;non-alcoholic
+    Producto: Rústico Algodón Pantalones;6576;886.00;143;alcoholic
+    Producto: Sorprendente Hormigon Coche;8925;88.00;227;plate
+    Producto: Sabroso Ladrillo Pantalones;7363;193.00;256;package
+    Producto: Guapo Metal Pescado;14142;20.00;374;package
+    Producto: Fantástico Ladrillo Queso;13197;369.00;175;package
+    Producto: Rústico Metal Mesa;1115;257.00;159;plate
+    Producto: Inteligente Hormigon Ensalada;12187;56.00;431;package
+  Restaurante: Cordero, Tijerina y Ibarra Asociados
+    Producto: Refinado Granito Pantalones;11333;387.00;249;plate
+    Producto: Sabroso Plástico Pantalones;13812;407.00;225;plate
+    Producto: Refinado Granito Silla;6601;542.00;404;package
+    Producto: Pequeño Plástico Ensalada;3065;138.00;373;non-alcoholic
+    Producto: Fantástico Hormigon Toallas;5142;499.00;300;package
+    Producto: Ergonómico Acero Teclado;913;591.00;301;alcoholic
+    Producto: Rústico Acero Silla;13960;912.00;471;package
+    Producto: Refinado Algodón Pizza;2185;919.00;340;package
+    Producto: Pequeño Madera Teclado;2335;499.00;447;plate
+    Producto: Pequeño Hormigon Ordenador;2831;89.00;196;package
+    Producto: Rústico Plástico Ensalada;7913;913.00;216;non-alcoholic
+    Producto: Genérico Hormigon Sopa;1293;644.00;351;non-alcoholic
+    Producto: Genérico Metal Gorro;14478;81.00;406;package
+Estadio: 53fa70dc-06c9-42a8-a4fd-9a02c0411704;MHPArena;Stuttgart;[885, 418]
+  Restaurante: Orozco e Hijos
+    Producto: Guapa Ladrillo Salchichas;5105;533.00;435;non-alcoholic
+    Producto: Sorprendente Metal Silla;13589;134.00;266;plate
+    Producto: Guapo Algodón Pelota;6775;120.00;442;non-alcoholic
+    Producto: Increible Ladrillo Pantalones;802;385.00;256;non-alcoholic
+    Producto: Genérico Algodón Silla;1562;517.00;196;alcoholic
+    Producto: Artesanal Plástico Teclado;2172;172.00;146;alcoholic
+    Producto: Sabroso Plástico Gorro;2804;949.00;261;plate
+    Producto: Artesanal Hormigon Camiseta;12225;255.00;182;plate
+    Producto: Sabroso Hormigon Pescado;7484;864.00;119;package
+    Producto: Hecho a mano Plástico Pantalones;3405;523.00;451;alcoholic
+  Restaurante: Perales S.L.
+    Producto: Guapo Hormigon Pizza;10776;562.00;336;alcoholic
+    Producto: Artesanal Algodón Sopa;7528;492.00;367;plate
+    Producto: Pequeño Hormigon Pelota;7023;932.00;305;package
+    Producto: Inteligente Algodón Pollo;8401;331.00;150;alcoholic
+    Producto: Sorprendente Plástico Ordenador;11596;945.00;185;non-alcoholic
+    Producto: Genérico Algodón Pollo;14966;470.00;131;non-alcoholic
+    Producto: Guapa Plástico Gorro;9743;273.00;417;alcoholic
+    Producto: Guapa Hormigon Raton;2580;95.00;296;plate
+    Producto: Refinado Metal Camiseta;6560;520.00;157;alcoholic
+    Producto: Inteligente Granito Ensalada;4224;753.00;259;non-alcoholic
+    Producto: Increible Algodón Coche;14710;761.00;457;plate
+  Restaurante: Agosto Delrío S.L.
+    Producto: Sabroso Ladrillo Coche;8651;485.00;217;plate
+    Producto: Práctico Madera Zapatos;7241;626.00;414;non-alcoholic
+    Producto: Pequeño Madera Guantes;10915;130.00;106;plate
+    Producto: Pequeño Madera Pantalones;7305;512.00;452;package
+    Producto: Refinado Madera Patatas fritas;2977;656.00;332;package
+    Producto: Refinado Ladrillo Coche;13834;697.00;205;plate
+    Producto: Sorprendente Hormigon Sopa;8745;951.00;317;plate
+    Producto: Inteligente Acero Patatas fritas;9414;511.00;294;alcoholic
+    Producto: Artesanal Acero Gorro;6082;26.00;471;plate
+    Producto: Genérico Plástico Pollo;5181;869.00;480;package
+    Producto: Guapo Metal Bacon;13664;359.00;308;plate
+    Producto: Increible Madera Salchichas;3974;165.00;202;alcoholic
+Estadio: 92940c44-15af-44a9-9fd4-480d0d865e27;Veltins-Arena;Gelsenkirchen;[735, 253]
+  Restaurante: Téllez y Leal
+    Producto: Artesanal Ladrillo Ensalada;199;438.00;239;package
+    Producto: Hecho a mano Metal Gorro;1311;572.00;384;package
+    Producto: Guapo Metal Salchichas;11464;158.00;298;non-alcoholic
+    Producto: Práctico Algodón Coche;13879;112.00;200;package
+    Producto: Ergonómico Acero Zapatos;8076;261.00;376;package
+    Producto: Sabroso Hormigon Zapatos;4346;571.00;258;non-alcoholic
+    Producto: Hecho a mano Granito Queso;1019;981.00;188;non-alcoholic
+    Producto: Guapa Madera Ordenador;3373;162.00;481;plate
+    Producto: Práctico Acero Pescado;6595;637.00;489;plate
+    Producto: Hecho a mano Hormigon Pescado;13966;981.00;397;non-alcoholic
+  Restaurante: Urrutia y Pelayo
+    Producto: Refinado Plástico Bicicleta;10603;841.00;107;non-alcoholic
+    Producto: Genérico Algodón Coche;14054;602.00;325;non-alcoholic
+    Producto: Pequeño Hormigon Pizza;7997;598.00;254;plate
+    Producto: Pequeño Metal Coche;5188;568.00;140;non-alcoholic
+    Producto: Ergonómico Granito Salchichas;10902;341.00;449;package
+    Producto: Guapa Acero Pescado;12360;944.00;372;non-alcoholic
+    Producto: Sabroso Hormigon Queso;1219;587.00;381;plate
+    Producto: Guapo Ladrillo Sopa;4634;12.00;355;alcoholic
+    Producto: Hecho a mano Plástico Pollo;13487;495.00;421;non-alcoholic
+    Producto: Guapa Algodón Ordenador;4700;888.00;117;plate
+  Restaurante: Araña Villagómez e Hijos
+    Producto: Ergonómico Ladrillo Bacon;8141;253.00;188;alcoholic
+    Producto: Guapo Ladrillo Pescado;11951;592.00;438;plate
+    Producto: Refinado Algodón Toallas;13958;664.00;317;plate
+    Producto: Pequeño Algodón Atún;4489;439.00;278;non-alcoholic
+    Producto: Inteligente Granito Sopa;9081;855.00;401;alcoholic
+    Producto: Pequeño Hormigon Gorro;3606;472.00;194;package
+    Producto: Guapa Madera Bacon;476;11.00;418;alcoholic
+    Producto: Ergonómico Algodón Zapatos;14320;524.00;306;plate
+    Producto: Fantástico Madera Guantes;9246;686.00;376;plate
+    Producto: Práctico Algodón Bicicleta;6177;174.00;290;non-alcoholic
+    Producto: Sabroso Granito Raton;2976;626.00;439;alcoholic
+    Producto: Increible Metal Pantalones;5296;217.00;388;plate
+  Restaurante: Soto y Mesa
+    Producto: Pequeño Metal Pescado;3558;400.00;371;package
+    Producto: Sabroso Granito Patatas fritas;4316;985.00;307;package
+    Producto: Guapa Ladrillo Patatas fritas;56;483.00;301;alcoholic
+    Producto: Hecho a mano Algodón Teclado;10202;346.00;213;alcoholic
+    Producto: Inteligente Acero Silla;3465;90.00;264;plate
+    Producto: Sorprendente Algodón Atún;2310;425.00;473;alcoholic
+    Producto: Hecho a mano Granito Zapatos;5623;145.00;376;package
+    Producto: Pequeño Acero Toallas;8150;78.00;130;package
+    Producto: Genérico Metal Mesa;2995;530.00;304;plate
+    Producto: Hecho a mano Hormigon Toallas;10892;211.00;322;alcoholic
+  Restaurante: Moreno y Irizarry
+    Producto: Fantástico Hormigon Salchichas;8597;493.00;338;plate
+    Producto: Fantástico Acero Gorro;146;217.00;487;non-alcoholic
+    Producto: Refinado Metal Guantes;12125;589.00;445;non-alcoholic
+    Producto: Práctico Granito Toallas;8391;246.00;298;plate
+    Producto: Sorprendente Plástico Silla;8756;713.00;435;package
+    Producto: Artesanal Madera Zapatos;11102;659.00;218;alcoholic
+    Producto: Práctico Ladrillo Raton;333;287.00;365;alcoholic
+    Producto: Increible Acero Sopa;7906;350.00;403;package
+    Producto: Guapa Madera Salchichas;7463;472.00;372;plate
+    Producto: Artesanal Algodón Ordenador;1613;902.00;209;non-alcoholic
+    Producto: Refinado Madera Teclado;7702;679.00;110;alcoholic
+    Producto: Rústico Ladrillo Camiseta;6372;100.00;451;package
+    Producto: Guapo Metal Raton;265;586.00;281;non-alcoholic
+Estadio: 3181b7d7-77cc-42a8-96c9-ab6c18e282ae;Volksparkstadion;Hamburgo;[53, 357]
+  Restaurante: Mares, Samaniego y Matías Asociados
+    Producto: Rústico Madera Silla;14546;334.00;387;non-alcoholic
+    Producto: Guapo Metal Pelota;389;493.00;273;package
+    Producto: Fantástico Algodón Camiseta;5033;512.00;270;alcoholic
+    Producto: Práctico Algodón Guantes;7697;590.00;368;alcoholic
+    Producto: Sabroso Algodón Pantalones;2932;200.00;130;plate
+    Producto: Increible Metal Toallas;14320;178.00;449;alcoholic
+    Producto: Hecho a mano Plástico Sopa;7615;552.00;284;non-alcoholic
+    Producto: Ergonómico Madera Pescado;4107;40.00;103;plate
+    Producto: Práctico Hormigon Bacon;2839;691.00;355;non-alcoholic
+    Producto: Práctico Ladrillo Pizza;6372;400.00;482;plate
+    Producto: Hecho a mano Granito Pollo;11012;897.00;301;non-alcoholic
+  Restaurante: Beltrán, Ojeda y Solís Asociados
+    Producto: Increible Granito Bicicleta;10918;605.00;400;plate
+    Producto: Ergonómico Algodón Pollo;12104;735.00;353;package
+    Producto: Genérico Madera Teclado;14394;603.00;363;plate
+    Producto: Hecho a mano Acero Toallas;6353;122.00;296;package
+    Producto: Genérico Metal Silla;313;821.00;115;plate
+    Producto: Fantástico Metal Gorro;3231;303.00;142;non-alcoholic
+    Producto: Guapo Plástico Salchichas;6194;982.00;358;plate
+    Producto: Refinado Plástico Raton;9822;418.00;500;package
+    Producto: Genérico Ladrillo Pantalones;2033;538.00;187;non-alcoholic
+    Producto: Guapa Ladrillo Mesa;6536;600.00;281;alcoholic
+  Restaurante: Soria Delatorre S.L.
+    Producto: Refinado Granito Teclado;14437;192.00;247;alcoholic
+    Producto: Increible Acero Queso;405;440.00;104;plate
+    Producto: Increible Ladrillo Ensalada;13852;875.00;172;plate
+    Producto: Sorprendente Madera Pollo;1219;10.00;391;package
+    Producto: Guapa Ladrillo Salchichas;659;497.00;446;package
+    Producto: Hecho a mano Granito Sopa;5938;672.00;190;package
+    Producto: Inteligente Algodón Ensalada;4437;218.00;295;non-alcoholic
+    Producto: Rústico Acero Teclado;6493;205.00;116;alcoholic
+    Producto: Hecho a mano Algodón Mesa;8632;853.00;224;alcoholic
+    Producto: Rústico Granito Silla;8078;587.00;479;plate
+    Producto: Genérico Granito Pizza;43;782.00;388;plate
+    Producto: Artesanal Madera Gorro;3232;22.00;446;non-alcoholic
+  Restaurante: Álvarez, Jurado y Rubio Asociados
+    Producto: Hecho a mano Hormigon Pizza;8724;366.00;293;package
+    Producto: Sabroso Acero Bicicleta;10170;72.00;411;alcoholic
+    Producto: Inteligente Ladrillo Guantes;8555;559.00;384;plate
+    Producto: Guapo Granito Sopa;567;362.00;410;plate
+    Producto: Fantástico Plástico Mesa;11601;122.00;422;plate
+    Producto: Artesanal Metal Teclado;7848;194.00;226;alcoholic
+    Producto: Hecho a mano Hormigon Ensalada;10125;621.00;446;plate
+    Producto: Genérico Algodón Ordenador;6982;63.00;223;package
+    Producto: Inteligente Madera Pelota;6097;619.00;473;plate
+    Producto: Guapa Acero Mesa;3028;476.00;147;non-alcoholic
+    Producto: Fantástico Ladrillo Gorro;1937;50.00;455;package
+    Producto: Práctico Madera Silla;5754;922.00;146;non-alcoholic
+  Restaurante: Becerra y Laureano
+    Producto: Guapa Plástico Coche;3047;677.00;418;package
+    Producto: Guapo Ladrillo Patatas fritas;11104;88.00;200;non-alcoholic
+    Producto: Guapo Granito Pizza;2589;52.00;441;plate
+    Producto: Práctico Acero Mesa;7173;349.00;386;plate
+    Producto: Ergonómico Algodón Coche;2534;129.00;314;plate
+    Producto: Hecho a mano Metal Bicicleta;8403;397.00;460;alcoholic
+    Producto: Increible Plástico Toallas;2849;898.00;448;package
+    Producto: Sabroso Metal Bacon;4599;791.00;168;plate
+    Producto: Refinado Madera Patatas fritas;8958;167.00;476;alcoholic
+    Producto: Increible Ladrillo Pescado;7371;208.00;465;package
+    Producto: Hecho a mano Granito Ensalada;8336;366.00;134;alcoholic
+    Producto: Genérico Granito Zapatos;8694;651.00;487;plate
+    Producto: Guapo Plástico Ordenador;10839;912.00;439;plate
+    Producto: Genérico Plástico Teclado;3255;647.00;248;non-alcoholic
+  Restaurante: Zarate y Meza
+    Producto: Fantástico Madera Gorro;9855;407.00;306;alcoholic
+    Producto: Increible Plástico Pescado;13594;147.00;302;plate
+    Producto: Rústico Ladrillo Guantes;1068;804.00;235;package
+    Producto: Rústico Metal Bicicleta;8929;850.00;296;plate
+    Producto: Sorprendente Algodón Pelota;6688;183.00;407;alcoholic
+    Producto: Refinado Acero Ordenador;12283;894.00;153;alcoholic
+    Producto: Guapo Acero Raton;274;447.00;153;package
+    Producto: Práctico Acero Silla;9596;802.00;438;alcoholic
+    Producto: Hecho a mano Hormigon Zapatos;3909;35.00;467;non-alcoholic
+    Producto: Genérico Madera Sopa;1105;850.00;244;alcoholic
+    Producto: Inteligente Plástico Coche;8140;637.00;274;plate
+    Producto: Fantástico Metal Camiseta;10813;461.00;189;alcoholic
+    Producto: Sorprendente Acero Pollo;5310;177.00;223;plate
+    Producto: Guapo Acero Bicicleta;8934;518.00;347;non-alcoholic
+    Producto: Sabroso Ladrillo Camiseta;4591;230.00;123;package
+    Producto: Increible Ladrillo Salchichas;6327;540.00;391;alcoholic
+    Producto: Pequeño Ladrillo Camiseta;1150;108.00;444;alcoholic
+  Restaurante: Pedraza, Lara y Alemán Asociados
+    Producto: Sorprendente Granito Ensalada;6208;873.00;152;non-alcoholic
+    Producto: Genérico Granito Camiseta;4743;93.00;145;package
+    Producto: Hecho a mano Metal Mesa;7902;1.00;217;plate
+    Producto: Guapa Hormigon Ensalada;10372;464.00;365;package
+    Producto: Rústico Hormigon Zapatos;5223;688.00;343;package
+    Producto: Artesanal Plástico Salchichas;4495;617.00;374;plate
+    Producto: Guapa Granito Bicicleta;1643;82.00;261;non-alcoholic
+    Producto: Sorprendente Plástico Raton;14480;983.00;261;alcoholic
+    Producto: Fantástico Algodón Zapatos;5942;118.00;210;package
+    Producto: Artesanal Hormigon Queso;7151;427.00;296;package
+    Producto: Práctico Granito Zapatos;5128;67.00;341;alcoholic
+    Producto: Rústico Acero Pollo;7327;902.00;190;package
+    Producto: Pequeño Ladrillo Pizza;3003;997.00;364;alcoholic
+Estadio: 85bf8f3a-4bb8-413e-8bf6-d577178b1eb7;Deutsche Bank Park;Fráncfort del Meno;[222, 24]
+  Restaurante: Abreu y Alonzo
+    Producto: Genérico Metal Pescado;511;298.00;343;plate
+    Producto: Inteligente Granito Toallas;13949;712.00;414;plate
+    Producto: Refinado Algodón Mesa;10437;976.00;300;plate
+    Producto: Rústico Acero Pelota;13073;90.00;162;non-alcoholic
+    Producto: Fantástico Plástico Gorro;5056;730.00;453;alcoholic
+    Producto: Ergonómico Madera Bicicleta;11062;458.00;229;non-alcoholic
+    Producto: Guapo Hormigon Pollo;7716;173.00;106;package
+    Producto: Refinado Ladrillo Atún;8543;504.00;246;alcoholic
+    Producto: Guapa Plástico Bacon;12783;987.00;439;plate
+    Producto: Rústico Acero Camiseta;11071;217.00;307;plate
+    Producto: Pequeño Plástico Gorro;881;524.00;260;alcoholic
+    Producto: Sorprendente Madera Pantalones;3181;198.00;168;package
+  Restaurante: Aguilera, Rodarte y Borrego Asociados
+    Producto: Increible Algodón Mesa;1381;982.00;349;alcoholic
+    Producto: Inteligente Metal Toallas;13056;330.00;111;package
+    Producto: Hecho a mano Hormigon Bacon;12776;2.00;350;non-alcoholic
+    Producto: Hecho a mano Hormigon Silla;3118;614.00;371;package
+    Producto: Práctico Ladrillo Pizza;3553;703.00;447;alcoholic
+    Producto: Guapa Madera Teclado;107;767.00;490;package
+    Producto: Inteligente Plástico Guantes;10362;488.00;474;non-alcoholic
+    Producto: Sabroso Ladrillo Atún;13937;578.00;257;plate
+    Producto: Práctico Algodón Teclado;5085;536.00;309;package
+    Producto: Genérico Algodón Sopa;6139;963.00;405;alcoholic
+    Producto: Guapo Granito Queso;13766;794.00;160;alcoholic
+  Restaurante: Almonte Vigil S.L.
+    Producto: Genérico Plástico Pescado;6023;72.00;263;package
+    Producto: Genérico Hormigon Ensalada;1577;917.00;374;package
+    Producto: Sabroso Hormigon Ordenador;3417;57.00;368;alcoholic
+    Producto: Ergonómico Madera Silla;10006;289.00;333;plate
+    Producto: Fantástico Granito Ordenador;12317;115.00;168;package
+    Producto: Práctico Granito Silla;3501;162.00;494;plate
+    Producto: Fantástico Madera Bacon;1235;754.00;391;plate
+    Producto: Increible Metal Zapatos;3600;287.00;100;plate
+    Producto: Guapo Acero Camiseta;5502;597.00;355;package
+    Producto: Refinado Plástico Bacon;10701;444.00;103;plate
+    Producto: Práctico Metal Pollo;14939;389.00;203;non-alcoholic
+  Restaurante: Apodaca, Saiz y Sevilla Asociados
+    Producto: Inteligente Algodón Pelota;6593;138.00;117;alcoholic
+    Producto: Guapa Hormigon Sopa;12042;912.00;465;package
+    Producto: Increible Metal Sopa;11506;267.00;120;plate
+    Producto: Inteligente Algodón Coche;11574;880.00;417;non-alcoholic
+    Producto: Increible Acero Bacon;11598;244.00;324;plate
+    Producto: Ergonómico Algodón Salchichas;6008;869.00;435;plate
+    Producto: Fantástico Ladrillo Camiseta;4915;160.00;351;alcoholic
+    Producto: Ergonómico Plástico Zapatos;2864;523.00;128;non-alcoholic
+    Producto: Increible Algodón Pelota;6750;641.00;478;non-alcoholic
+    Producto: Increible Hormigon Mesa;9450;886.00;485;non-alcoholic
+    Producto: Rústico Hormigon Gorro;9601;168.00;350;non-alcoholic
+    Producto: Pequeño Algodón Atún;14142;356.00;194;package
+    Producto: Inteligente Plástico Gorro;5361;192.00;215;plate
+    Producto: Inteligente Acero Bacon;7096;1.00;328;alcoholic
+    Producto: Genérico Acero Ordenador;1473;264.00;232;package
+    Producto: Sorprendente Acero Raton;10840;726.00;465;package
+Estadio: 3db1375b-a28f-4908-9878-ec0fe5a5587f;Estadio Rhein Energie;Colonia;[374, 424]
+  Restaurante: Montalvo y Matos
+    Producto: Inteligente Hormigon Patatas fritas;10605;786.00;426;plate
+    Producto: Guapo Hormigon Gorro;1668;128.00;209;package
+    Producto: Hecho a mano Ladrillo Queso;12644;406.00;221;plate
+    Producto: Sabroso Madera Zapatos;10869;743.00;429;package
+    Producto: Pequeño Acero Salchichas;3398;768.00;155;package
+    Producto: Refinado Acero Guantes;3872;355.00;449;non-alcoholic
+    Producto: Práctico Ladrillo Coche;1279;488.00;393;alcoholic
+    Producto: Sabroso Metal Silla;11162;314.00;276;non-alcoholic
+    Producto: Refinado Ladrillo Guantes;8641;207.00;491;alcoholic
+    Producto: Artesanal Metal Toallas;10771;682.00;295;package
+    Producto: Genérico Metal Salchichas;6357;38.00;179;package
+    Producto: Fantástico Ladrillo Mesa;6835;93.00;435;plate
+  Restaurante: Salinas González e Hijos
+    Producto: Sorprendente Granito Teclado;12496;6.00;325;non-alcoholic
+    Producto: Increible Hormigon Pescado;7853;39.00;422;alcoholic
+    Producto: Genérico Plástico Ensalada;2970;970.00;432;non-alcoholic
+    Producto: Guapo Madera Toallas;13163;230.00;121;alcoholic
+    Producto: Hecho a mano Granito Camiseta;6071;750.00;404;package
+    Producto: Fantástico Acero Sopa;10122;23.00;274;package
+    Producto: Pequeño Hormigon Pollo;7778;869.00;409;package
+    Producto: Sabroso Algodón Gorro;7252;732.00;206;package
+    Producto: Artesanal Hormigon Guantes;2863;985.00;244;package
+    Producto: Guapo Ladrillo Pelota;1950;534.00;114;alcoholic
+  Restaurante: Escobar S.A.
+    Producto: Hecho a mano Ladrillo Atún;5446;122.00;391;package
+    Producto: Guapo Ladrillo Sopa;3794;533.00;431;non-alcoholic
+    Producto: Guapo Metal Silla;12486;854.00;346;alcoholic
+    Producto: Increible Granito Raton;8649;603.00;418;package
+    Producto: Ergonómico Madera Bicicleta;12928;204.00;395;non-alcoholic
+    Producto: Guapo Algodón Silla;595;534.00;424;plate
+    Producto: Hecho a mano Granito Coche;1417;586.00;140;package
+    Producto: Guapo Ladrillo Camiseta;3669;408.00;128;package
+    Producto: Hecho a mano Plástico Gorro;11977;791.00;178;plate
+    Producto: Inteligente Hormigon Pizza;3233;92.00;405;non-alcoholic
+    Producto: Inteligente Algodón Raton;828;328.00;409;non-alcoholic
+    Producto: Sabroso Acero Pescado;12933;610.00;107;alcoholic
+Estadio: 2ae81544-c13f-442f-b332-6887628e9d6a;Red Bull Arena;Leipzig;[292, 206]
+  Restaurante: Garica y Bueno
+    Producto: Genérico Madera Toallas;10469;608.00;383;non-alcoholic
+    Producto: Sorprendente Ladrillo Bicicleta;3507;483.00;110;package
+    Producto: Ergonómico Algodón Pollo;14465;636.00;353;alcoholic
+    Producto: Guapo Hormigon Camiseta;6683;711.00;414;alcoholic
+    Producto: Guapo Ladrillo Gorro;12850;695.00;146;package
+    Producto: Sorprendente Metal Bacon;12245;243.00;263;non-alcoholic
+    Producto: Increible Plástico Guantes;9022;605.00;319;package
+    Producto: Sabroso Metal Teclado;1316;63.00;195;alcoholic
+    Producto: Práctico Madera Pollo;4823;553.00;122;non-alcoholic
+    Producto: Guapo Hormigon Guantes;13628;903.00;461;non-alcoholic
+    Producto: Sorprendente Madera Ensalada;2228;385.00;404;package
+    Producto: Pequeño Metal Bicicleta;2983;721.00;369;package
+  Restaurante: Roybal, Rendón y Verdugo Asociados
+    Producto: Sorprendente Plástico Toallas;10548;820.00;458;non-alcoholic
+    Producto: Pequeño Hormigon Teclado;7456;486.00;320;package
+    Producto: Práctico Granito Patatas fritas;320;593.00;480;package
+    Producto: Pequeño Acero Patatas fritas;2342;563.00;347;plate
+    Producto: Guapo Acero Toallas;9721;459.00;331;plate
+    Producto: Hecho a mano Hormigon Ordenador;6128;530.00;281;package
+    Producto: Práctico Madera Salchichas;8257;741.00;224;non-alcoholic
+    Producto: Práctico Acero Teclado;5904;752.00;361;package
+    Producto: Ergonómico Granito Pantalones;4180;575.00;294;alcoholic
+    Producto: Guapa Algodón Guantes;1191;304.00;199;plate
+    Producto: Sabroso Ladrillo Ensalada;5311;417.00;161;package
+    Producto: Ergonómico Madera Pantalones;5100;218.00;177;alcoholic
+    Producto: Sabroso Metal Pizza;13963;89.00;165;package
+    Producto: Sabroso Algodón Pantalones;2411;303.00;114;non-alcoholic
+    Producto: Fantástico Metal Bicicleta;8280;115.00;149;non-alcoholic
+  Restaurante: Barrera, Granados y Garza Asociados
+    Producto: Pequeño Madera Teclado;963;178.00;482;package
+    Producto: Rústico Plástico Zapatos;2369;336.00;182;package
+    Producto: Guapa Granito Patatas fritas;10355;921.00;436;alcoholic
+    Producto: Guapo Acero Sopa;447;244.00;275;plate
+    Producto: Fantástico Madera Toallas;9313;642.00;389;alcoholic
+    Producto: Artesanal Plástico Raton;6938;737.00;113;plate
+    Producto: Inteligente Hormigon Queso;1191;875.00;140;non-alcoholic
+    Producto: Fantástico Ladrillo Atún;6894;705.00;297;package
+    Producto: Ergonómico Ladrillo Coche;6771;17.00;290;alcoholic
+    Producto: Inteligente Acero Gorro;2750;624.00;358;non-alcoholic
+    Producto: Pequeño Plástico Raton;8726;771.00;230;package
+    Producto: Increible Hormigon Atún;7147;520.00;413;non-alcoholic
+    Producto: Artesanal Granito Zapatos;12724;697.00;446;package
+    Producto: Refinado Hormigon Guantes;4598;974.00;498;non-alcoholic
+    Producto: Increible Granito Queso;4710;791.00;413;package
+  Restaurante: Coronado Armijo e Hijos
+    Producto: Inteligente Granito Mesa;2702;460.00;318;alcoholic
+    Producto: Artesanal Metal Bacon;11425;671.00;153;non-alcoholic
+    Producto: Refinado Hormigon Salchichas;13298;449.00;385;plate
+    Producto: Fantástico Hormigon Zapatos;1494;412.00;390;plate
+    Producto: Hecho a mano Metal Gorro;10008;115.00;150;non-alcoholic
+    Producto: Artesanal Granito Pescado;8120;802.00;458;non-alcoholic
+    Producto: Rústico Madera Patatas fritas;9301;631.00;478;package
+    Producto: Refinado Granito Patatas fritas;12799;409.00;270;package
+    Producto: Ergonómico Madera Gorro;6922;438.00;398;package
+    Producto: Sabroso Acero Guantes;5018;928.00;398;non-alcoholic
+    Producto: Inteligente Acero Zapatos;6182;835.00;351;alcoholic
+    Producto: Increible Plástico Pantalones;339;327.00;249;package
+Estadio: 2a3ea87b-3c46-4181-8409-56150ba3c962;Merkur Spiel-Arena;Düsseldorf;[768, 169]
+  Restaurante: Apodaca S.L.
+    Producto: Fantástico Metal Atún;9534;661.00;282;non-alcoholic
+    Producto: Guapo Acero Zapatos;6696;544.00;234;alcoholic
+    Producto: Increible Metal Raton;450;714.00;309;plate
+    Producto: Rústico Plástico Gorro;9311;863.00;262;non-alcoholic
+    Producto: Inteligente Madera Gorro;947;723.00;164;non-alcoholic
+    Producto: Increible Granito Pantalones;13482;937.00;403;plate
+    Producto: Hecho a mano Granito Pescado;6500;117.00;434;alcoholic
+    Producto: Guapo Ladrillo Patatas fritas;11406;71.00;403;non-alcoholic
+    Producto: Sabroso Madera Pescado;8259;490.00;423;non-alcoholic
+    Producto: Hecho a mano Algodón Sopa;6371;987.00;424;non-alcoholic
+    Producto: Guapo Acero Silla;10575;626.00;102;alcoholic
+    Producto: Pequeño Metal Bacon;14906;56.00;126;alcoholic
+  Restaurante: Montaño Aranda e Hijos
+    Producto: Guapa Acero Mesa;3957;564.00;288;non-alcoholic
+    Producto: Guapo Granito Sopa;6248;235.00;380;alcoholic
+    Producto: Ergonómico Algodón Zapatos;11730;534.00;101;alcoholic
+    Producto: Hecho a mano Acero Pollo;6234;138.00;287;package
+    Producto: Hecho a mano Acero Bacon;2041;133.00;473;package
+    Producto: Inteligente Algodón Silla;12862;405.00;407;package
+    Producto: Increible Hormigon Zapatos;10741;405.00;492;non-alcoholic
+    Producto: Guapo Madera Pizza;4098;759.00;127;package
+    Producto: Ergonómico Ladrillo Atún;5597;787.00;123;alcoholic
+    Producto: Refinado Hormigon Guantes;436;660.00;442;package
+    Producto: Rústico Madera Bicicleta;8336;948.00;499;plate
+    Producto: Ergonómico Madera Salchichas;9361;482.00;481;plate
+    Producto: Sorprendente Acero Camiseta;11703;117.00;356;package
+    Producto: Sorprendente Hormigon Zapatos;8579;942.00;255;plate
+  Restaurante: Olivares, Rentería y Alarcón Asociados
+    Producto: Pequeño Algodón Guantes;12082;152.00;112;package
+    Producto: Sabroso Ladrillo Coche;1481;378.00;134;non-alcoholic
+    Producto: Guapa Metal Salchichas;981;493.00;491;alcoholic
+    Producto: Fantástico Algodón Coche;6804;602.00;350;plate
+    Producto: Refinado Metal Pantalones;6713;994.00;367;plate
+    Producto: Genérico Ladrillo Zapatos;6538;859.00;440;plate
+    Producto: Hecho a mano Plástico Toallas;11130;607.00;479;alcoholic
+    Producto: Fantástico Madera Ordenador;6529;9.00;159;package
+    Producto: Artesanal Madera Ordenador;4210;924.00;172;alcoholic
+    Producto: Ergonómico Algodón Ordenador;11661;817.00;268;package
+  Restaurante: Ybarra, Quintana y Espino Asociados
+    Producto: Guapo Granito Sopa;13870;811.00;256;non-alcoholic
+    Producto: Increible Algodón Camiseta;8920;694.00;255;non-alcoholic
+    Producto: Práctico Plástico Raton;10576;1.00;124;plate
+    Producto: Artesanal Ladrillo Pescado;11274;389.00;385;non-alcoholic
+    Producto: Pequeño Metal Silla;11218;94.00;426;plate
+    Producto: Genérico Algodón Toallas;13870;259.00;493;non-alcoholic
+    Producto: Guapo Algodón Pizza;10536;117.00;351;package
+    Producto: Increible Granito Gorro;10094;771.00;281;plate
+    Producto: Sorprendente Madera Sopa;12987;816.00;448;plate
+    Producto: Genérico Plástico Guantes;13332;204.00;343;package
+    Producto: Genérico Ladrillo Pescado;9964;667.00;337;package
+    Producto: Genérico Acero Gorro;3203;124.00;296;plate
+    Producto: Refinado Algodón Zapatos;11247;52.00;152;package
+    Producto: Refinado Algodón Mesa;5666;249.00;323;non-alcoholic
